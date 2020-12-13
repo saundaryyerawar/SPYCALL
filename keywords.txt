@@ -31,4 +31,7 @@ slaughter
 discard
 violate
 strike
-
+beat
+enemy
+war
+get rid off
